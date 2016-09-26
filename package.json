@@ -1,0 +1,20 @@
+{
+    "name": "beanstalk-cleanup",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/broznich/beanstalk-cleanup.git"
+    },
+    "author": "Dmitry Broznich <xmbroz@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "aws-sdk": "*",
+        "async": "*",
+        "minimist": "*"
+    }
+}
